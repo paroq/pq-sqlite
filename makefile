@@ -1,6 +1,6 @@
 include $(PQ_FACTORY)/factory.mk
 
-pq_part_name := sqlite-autoconf-3100200
+pq_part_name := sqlite-autoconf-3130000
 pq_part_file := $(pq_part_name).tar.gz
 
 pq_sqlite_configuration_flags += --prefix=$(part_dir)
